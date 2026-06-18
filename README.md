@@ -3,6 +3,8 @@
 A GTK3 GUI to view and control systemd services,
 with live journald log tailing.
 
+![systemd Manager - System services view](screenshot.png)
+
 ## Requirements
 
 ```bash
@@ -50,7 +52,3 @@ cp systemd-manager.desktop ~/.local/share/applications/
 | Live log tail | Streams `journalctl -f` output into the GUI in real time |
 | Clear log | Wipe the log buffer without stopping the tail |
 
-
-## Screenshot
-
-![systemd Manager - System services view](screenshot.png)
