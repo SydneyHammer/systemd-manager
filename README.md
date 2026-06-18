@@ -49,3 +49,8 @@ cp systemd-manager.desktop ~/.local/share/applications/
 | Properties panel | ActiveState, PID, unit file path, start timestamp, etc. |
 | Live log tail | Streams `journalctl -f` output into the GUI in real time |
 | Clear log | Wipe the log buffer without stopping the tail |
+
+
+## Screenshot
+
+![systemd Manager - System services view](screenshot.png)
