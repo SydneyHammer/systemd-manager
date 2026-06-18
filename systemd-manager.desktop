@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=systemd Manager
+Comment=View and control systemd services with live journal logs
+Exec=/path/to/systemd-manager.sh
+Icon=preferences-system
+Terminal=false
+Categories=System;Settings;
+Keywords=systemd;service;daemon;journal;log;
+StartupNotify=true
