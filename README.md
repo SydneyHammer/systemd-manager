@@ -5,13 +5,6 @@ with live journald log tailing.
 
 ![systemd Manager - System services view](screenshot.png)
 
-## Requirements
-
-```bash
-# Python 3 + GTK3 bindings (usually pre-installed on Xubuntu)
-sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-3.0
-```
-
 ## Running
 
 ```bash
